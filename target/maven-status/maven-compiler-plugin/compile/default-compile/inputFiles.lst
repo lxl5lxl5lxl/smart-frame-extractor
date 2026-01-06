@@ -1,8 +1,0 @@
-/Users/lxl/workspace/trae_projects/smart-frame-extractor/src/main/java/com/lxl/smartframeextractor/api/ChannelController.java
-/Users/lxl/workspace/trae_projects/smart-frame-extractor/src/main/java/com/lxl/smartframeextractor/api/FrameReceiverController.java
-/Users/lxl/workspace/trae_projects/smart-frame-extractor/src/main/java/com/lxl/smartframeextractor/SmartFrameExtractorApplication.java
-/Users/lxl/workspace/trae_projects/smart-frame-extractor/src/main/java/com/lxl/smartframeextractor/core/RtspWorker.java
-/Users/lxl/workspace/trae_projects/smart-frame-extractor/src/main/java/com/lxl/smartframeextractor/service/ChannelManager.java
-/Users/lxl/workspace/trae_projects/smart-frame-extractor/src/main/java/com/lxl/smartframeextractor/core/FramePusher.java
-/Users/lxl/workspace/trae_projects/smart-frame-extractor/src/main/java/com/lxl/smartframeextractor/core/MotionFilter.java
-/Users/lxl/workspace/trae_projects/smart-frame-extractor/src/main/java/com/lxl/smartframeextractor/config/ExtractorProperties.java

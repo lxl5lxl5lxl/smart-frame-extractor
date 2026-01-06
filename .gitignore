@@ -1,0 +1,42 @@
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build output
+target/
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+*.test
+*.spec
+
+# Dependency directories
+.mvn/
+
+# Received frames (non-persistent data)
+received_frames/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.zip
+*.tar.gz
+*.rar
